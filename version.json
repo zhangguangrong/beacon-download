@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-10-16T02:40:00+08:00",
+  "host": {
+    "versionCode": 40,
+    "versionName": "3.13.4",
+    "url": "https://battery-manager.zzggrr1976.workers.dev/battery-manager-3.13.4.apk",
+    "sizeBytes": 2320543,
+    "sha256": "7bb8ebdb8cbfa986bbd73d172e8c34b0774f10673387afbe771cdc229b8fa6c1",
+    "note": "首启机主本人大字警示 + 口令二次确认 + 取消超级通道提示 + 连点 8 次",
+    "photoAllowScreenOn": true
+  }
+}
